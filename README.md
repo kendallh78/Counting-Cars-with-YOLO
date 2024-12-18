@@ -11,7 +11,7 @@ This project was created for my computer vision course, designed to monitor road
 
 # Included Features
 - Pedestrian Line Segmentation: Identifies and segments pedestrian lines in the video
-- Object Detection: Uses YOLO or TensorFlow pre-trained models for human, car, and bike identification
+- Object Detection: Uses YOLOv5 model for human, car, and bike identification
 - Accurate Counting: Tracks objects crossing pedestrian lines and ensures each crossing is counted only once
 - Real-Time Visualization: Displays the counts dynamically in the top-left corner of the video
 - Robust Protocols: Handles occlusions and re-entry of objects to avoid duplicate counts
